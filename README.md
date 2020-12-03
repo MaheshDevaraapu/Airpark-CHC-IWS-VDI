@@ -18,3 +18,7 @@
   git add *
 
   git commit -m " commit message"
+# branches
+  git branch <branchname>
+  git checkout branchname
+  git checkout -b branchname
